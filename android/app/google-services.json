@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "340790375385",
+    "firebase_url": "https://auth-provider-6bf96.firebaseio.com",
+    "project_id": "auth-provider-6bf96",
+    "storage_bucket": "auth-provider-6bf96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340790375385:android:31bf7ee2d95a3cf54e1fc8",
+        "android_client_info": {
+          "package_name": "com.osorio.login_provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340790375385-q1fe4bn7bcuinu4vkg6q7iu7u4c5vk83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDtxawvKO-v2b_bcA1uRJAUpTC_qo23aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340790375385-q1fe4bn7bcuinu4vkg6q7iu7u4c5vk83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
